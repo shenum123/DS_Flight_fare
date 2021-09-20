@@ -13,7 +13,8 @@
 Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
 ![image](https://user-images.githubusercontent.com/91054745/134035457-0e795315-b913-41fe-82a0-cf2c35d399d8.png)
-![ds2](https://user-images.githubusercontent.com/91054745/134035535-b14c5c4e-bea1-45e5-9c11-a351beab2c34.jpg)
+![ds3](https://user-images.githubusercontent.com/91054745/134038505-2fbdf6a7-c9ca-4541-80f2-48e84a4e4b77.jpeg)
+
 
 
 ## Overview
